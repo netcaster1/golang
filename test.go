@@ -1,8 +1,13 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func main() {
-	fmt.Println("twest")
+	arr := [...]int{1, 2, 3, 4}
+	var s [2]int
+	fmt.Println("Hello world")
+	fmt.Println(arr, s)
 
 }
