@@ -1,6 +1,8 @@
 package main
 
-func main{
-	fmt.Println("twest"),
-	adasdasdq
+import "fmt"
+
+func main() {
+	fmt.Println("twest")
+
 }
